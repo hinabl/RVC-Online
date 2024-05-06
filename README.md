@@ -6,8 +6,8 @@ A simple collection of Online Versions of RVC programs.
 # How to use?
 - [![Mangio_Colab_Full](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Mangio_Colab_Full.ipynb) For Mangio Colab. (Not being updated anymore)
 - [![Mangio_Colab_Full](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Mainline_Colab_Full.ipynb) For Mainline Colab.
-- [![GPT-SoVITS](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Hina_Modified_GPT_so_VITS.ipynb) For GPT-SoVITS.
-- [![Ilaria-RVC](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Ilaria_RVC.ipynb) For Ilaria-RVC.
+- [![GPT-SoVITS](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Hina_Modified_GPT_so_VITS.ipynb) For GPT-SoVITS. (Not being updated anymore, They have their own notebook now)
+- [![Ilaria-RVC](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hinabl/RVC-Online/blob/main/Ilaria_RVC.ipynb) For Ilaria-RVC. (Not being updated anymore, They have their own notebook now)
 
 # Original Repos
 - [Mangio RVC](https://github.com/Mangio621/Mangio-RVC-Fork)
